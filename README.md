@@ -17,7 +17,7 @@ A repo to store notes on classes from my Bachelors of Science degree program.
   </tr>
   <tr>
   <td>C182</td>
-    <td>C958</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C958.md">C958</a></td>
       <td>C175</td>
        <td>ORA1<sup>[N1]</sup>
   </tr>
