@@ -2,7 +2,7 @@
 A repo to store notes on classes from my Bachelors of Science degree program.
 
 ## Purpose
-<p>The <a href="https://github.com/WGU-BSCS/bscs-classes">current one</a> from the WGU BSCS group is empty and I don't recognize a lot of the course numbers from my BSCS program on it. I'm going to fill this repo up with notes and links to resources from classes I've taken and have taken, as well as my thoughts on them. Since I don't want to receive an academic strike or anything similar, I'm not going to be putting up projects or official documents. If you've seen my notes, you'll also probably notice that they aren't word-for-word transcriptions of the textbooks either.</p>
+<p>The <a href="https://github.com/WGU-BSCS/bscs-classes">current one</a> from the WGU BSCS group is empty and I don't recognize a lot of the course numbers from my BSCS program on it. I'm going to fill this repo up with notes and links to resources from classes I've taken and have yet taken, as well as my thoughts on them. Since I don't want to receive an academic strike or anything similar, I'm not going to be putting up projects or official documents. If you've seen my notes, you'll also probably notice that they aren't word-for-word transcriptions of the textbooks either.</p>
 <br />
 
 ## Classes
