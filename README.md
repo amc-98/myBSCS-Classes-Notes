@@ -22,7 +22,7 @@ A repo to store notes on classes from my Bachelors of Science degree program.
        <td>ORA1<sup>[N1]</sup>
   </tr>
   <tr>
-  <td>C779</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C779.md">C779</a></td>
     <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C867.md">C867</a></td>
        <td>C170</td>
        <td>C255<sup>[N2]</sup></td>
