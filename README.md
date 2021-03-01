@@ -18,115 +18,115 @@ A repo to store notes on classes from my Bachelors of Science degree program.
   <tr>
     <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C182.md">C182</a></td>
     <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C958.md">C958</a></td>
-      <td>C175</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C175.md">C175</a></td>
        <td>ORA1<sup>[N1]</sup>
   </tr>
   <tr>
     <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C779.md">C779</a></td>
     <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C867.md">C867</a></td>
-       <td>C170</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C170.md">C170</a></td>
        <td>C255<sup>[N2]</sup></td>
   </tr>
   <tr>
-  <td>C165</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C165.md">C165</a></td>
     <td></td>
-    <td>D191<sup>[2]</sup></td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/D191.md">D191</a><sup>[2]</sup></td>
       <td>C100<sup>[N3]</sup></td>
   </tr>
   <tr>
-  <td>C173</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C173.md">C173</a></td>
         <td></td>
-    <td>C482</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C482.md">C482</a></td>
   <td>C455<sup>[N4]</sup></td>
   </tr>
   <tr>
-    <td>C172<sup>[1]</sup></td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C172.md">C172</a><sup>[1]</sup></td>
         <td></td>
-  <td>C195</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C195.md">C195</a></td>
         <td></td>
   </tr>
   <tr>
-  <td>C961</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C961.md">C961</a></td>
       <td></td>
-      <td>C959</td>
-      <td></td>
-  </tr>
-  <tr>
-  <td>C955</td>
-      <td></td>
-      <td>D194</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C959.md">C959</a></td>
       <td></td>
   </tr>
   <tr>
-  <td>C836</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C955.md">C955</a></td>
       <td></td>
-  <td>C768</td>
-      <td></td>
-  </tr>
-  <tr>
-  <td>C176</td>
-      <td></td>
-  <td>C188</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/D194.md">D194</a></td>
       <td></td>
   </tr>
   <tr>
-  <td>C949</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C836.md">C836</a></td>
       <td></td>
-  <td>C952</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C768.md">C768</a></td>
       <td></td>
   </tr>
   <tr>
-  <td><a href="">C846</a></td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C176.md">C176</a></td>
       <td></td>
-  <td>C191</td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C188.md">C188</a></td>
+      <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C949.md">C949</a></td>
+      <td></td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C952.md">C952</a></td>
+      <td></td>
+  </tr>
+  <tr>
+  <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C846.md">C846</a></td>
+      <td></td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C191.md">C191</a></td>
       <td></td>
   </tr>
     <tr>
       <td></td>
       <td></td>
-  <td>C857</td>
+      <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C857.md">C857</a></td>
       <td></td>
   </tr>
       <tr>
       <td></td>
       <td></td>
-  <td>C464</td>
+        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C464.md">C464</a></td>
       <td></td>
   </tr>
       <tr>
       <td></td>
       <td></td>
-  <td>C963</td>
+        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C963.md">C963</a></td>
       <td></td>
   </tr>
       <tr>
       <td></td>
       <td></td>
-  <td>C683</td>
+        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C683.md">C683</a></td>
       <td></td>
   </tr>
       <tr>
       <td></td>
       <td></td>
-  <td>C960</td>
+        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C960.md">C960</a></td>
       <td></td>
   </tr>
       <tr>
       <td></td>
       <td></td>
-  <td>C950</td>
+        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C950.md">C950</a></td>
       <td></td>
   </tr>
       <tr>
       <td></td>
       <td></td>
-  <td>C951</td>
+        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C951.md">C951</a></td>
       <td></td>
   </tr>
       <tr>
       <td></td>
       <td></td>
-  <td>C964</td>
+        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C964.md">C964</a></td>
       <td></td>
   </tr>
 </table>
