@@ -131,9 +131,9 @@ A repo to store notes on classes from my Bachelors of Science degree program.
   </tr>
 </table>
   <br />
- <p><sub>[1] I took this class in between two different versions of it and the material on the final exam radically changed between them. It's possible it has changed once again, but I'll offer some tips from my experience that still should apply</sub></p>
- <p><sub>[2] This class replaced the Oracle SQL certification based-class that was originally in the degree program</sub></p>
-  <p><sub>[N1] An orientation class that walks new students through the learning portal</sub></p>
+ <p><sub>[1] I took this class in between two different versions of it and the material on the final exam radically changed between them. It's possible it has changed once again, but I'll offer some tips from my experience that still should apply.</sub></p>
+ <p><sub>[2] This class replaced the Oracle SQL certification based-class that was originally in the degree program.</sub></p>
+  <p><sub>[N1] An orientation class that walks new students through the learning portal.</sub></p>
   <p><sub>[N2] A gen ed social sciences class that I transfered in.</sub></p>
   <p><sub>[N3] A gen ed humanities class that I transfered in.</sub></p>
   <p><sub>[N4] English Composition I, which I transfered in.</sub></p>
