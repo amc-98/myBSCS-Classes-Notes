@@ -6,7 +6,7 @@ A repo to store notes on classes from my Bachelors of Science degree program.
 <br />
 
 ## Classes
-<p>Below is a list of the classes covered in this repo (with links to their readmes. I've seperated it by courses I've taken for the degree program and completed, courses in the program I haven't taken yet, and if applicable, courses I've taken with the degree program that have either undergone significant changes (like PA courses becoming OAs or the curriculum changing).</p>
+<p>Below is a list of the classes covered in this repo (with links to their readmes). I've seperated it by courses I've taken for the degree program and completed, courses in the program I haven't taken yet, and if applicable, courses I've taken with the degree program that have either undergone significant changes (like PA courses becoming OAs or the curriculum changing).</p>
 <br />
 <table>
   <tr>
