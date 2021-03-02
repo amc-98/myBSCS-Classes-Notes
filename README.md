@@ -26,7 +26,7 @@ A repo to store notes on classes from my Bachelors of Science degree program.
        <td>ORA1<sup>[N1]</sup>
   </tr>
   <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C779.md">C779</a></td>
+    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C779.md">C779</a><sup>[3]</sup></td>
     <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C867.md">C867</a></td>
     <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C170.md">C170</a></td>
        <td>C255<sup>[N2]</sup></td>
@@ -136,7 +136,8 @@ A repo to store notes on classes from my Bachelors of Science degree program.
 </table>
   <br />
  <p><sub>[1] I took this class in between two different versions of it and the material on the final exam radically changed between them. It's possible it has changed once again, but I'll offer some tips from my experience that still should apply.</sub></p>
- <p><sub>[2] This class replaced the Oracle SQL certification based-class that was originally in the degree program.</sub></p>
+ <p><sub>[2] This class replaced the Oracle SQL certification based-class that was originally in the degree program.</sub></p> 
+ <p><sub>[3] I took the former certification-based version of this course. It has since been updated to an in-house exam. While my notes on the exam are outdated, a lot of the HTML and CSS practice links should still be helpful to those new to the subject.</sub></p>
   <p><sub>[N1] An orientation class that walks new students through the learning portal.</sub></p>
   <p><sub>[N2] A gen ed social sciences class that I transfered in.</sub></p>
   <p><sub>[N3] A gen ed humanities class that I transfered in.</sub></p>
