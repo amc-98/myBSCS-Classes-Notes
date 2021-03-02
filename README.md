@@ -2,8 +2,11 @@
 A repo to store notes on classes from my Bachelors of Science degree program.
 
 ## Purpose
-<p>The <a href="https://github.com/WGU-BSCS/bscs-classes">current one</a> from the WGU BSCS group is empty and I don't recognize a lot of the course numbers from my BSCS program on it. I'm going to fill this repo up with notes and links to resources from classes I've taken and have yet taken, as well as my thoughts on them. Since I don't want to receive an academic strike or anything similar, I'm not going to be putting up projects or official documents. If you've seen my notes, you'll also probably notice that they aren't word-for-word transcriptions of the textbooks either.</p>
+<p>The <a href="https://github.com/WGU-BSCS/bscs-classes">current one</a> from the WGU BSCS group is empty and I don't recognize a lot of the course numbers from my BSCS program on it. So I decided to fill this repo up with notes and links to resources from classes I've taken and have yet taken, as well as my thoughts on them. Since I don't want to receive an academic strike or anything similar, I'm not going to be putting up projects or official documents. If you know where to look, you probably know where to find everything already.</p>
 <br />
+
+## Update
+<p>Whew! It took a few days to do, but it's finally done and ready to share! I hope when other people finally check it out that they find it useful. If you're one of such people and want me to add something to the repo or want me to remove a link to your reddit Write-Up, contact me on either here or Reddit (same username).</p>
 
 ## Classes
 <p>Below is a list of the classes covered in this repo (with links to their readmes). I've seperated it by courses I've taken for the degree program and completed, courses in the program I haven't taken yet, and if applicable, courses I've taken with the degree program that have either undergone significant changes (like PA courses becoming OAs or the curriculum changing).</p>
