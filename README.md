@@ -1,5 +1,5 @@
 # BSCS Class Notes and Resources
-A repo to store notes on classes from my Bachelors of Science degree program I'm currently enrolled in.
+A repository to store notes on classes from the Bachelors of Science degree program I'm currently enrolled in.
 
 ## Purpose
 I decided to create my own repo of notes and resources for the BS in CS program I'm in after seeing the [current one](https://github.com/WGU-BSCS/bscs-classes) from the WGU BSCS group was empty and I didn't recognize a lot of the course numbers from my BSCS program on it. I've been an avid follower of the school subreddits and have followed the posts on many course for the last few years, saving links to many for future reference. One day (as in, last week), I decided that I needed to start taking my studies far more seriously so I decided to learn GitHub and create repositories for notes on the classes I was taking. Eventually, after seeing the WGU BSCS's empty repo I decided I would create something similar to keep track of all of the links I'd been saving. And that's about it. 
