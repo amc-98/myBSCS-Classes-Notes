@@ -1,147 +1,54 @@
-# myBSCS-Classes-Notes
-A repo to store notes on classes from my Bachelors of Science degree program.
+# BSCS Class Notes and Resources
+A repo to store notes on classes from my Bachelors of Science degree program I'm currently enrolled in.
 
 ## Purpose
-<p>The <a href="https://github.com/WGU-BSCS/bscs-classes">current one</a> from the WGU BSCS group is empty and I don't recognize a lot of the course numbers from my BSCS program on it. So I decided to fill this repo up with notes and links to resources from classes I've taken and have yet taken, as well as my thoughts on them. Since I don't want to receive an academic strike or anything similar, I'm not going to be putting up projects or official documents. I want to ensure this repo can remain up for future students to use as guidance since an important selling factor of this school is the supportive student communities that exist and the advice they pass on from student to student.</p>
-<br />
+I decided to create my own repo of notes and resources for the BS in CS program I'm in after seeing the [current one](https://github.com/WGU-BSCS/bscs-classes) from the WGU BSCS group was empty and I didn't recognize a lot of the course numbers from my BSCS program on it. I've been an avid follower of the school subreddits and have followed the posts on many course for the last few years, saving links to many for future reference. One day (as in, last week), I decided that I needed to start taking my studies far more seriously so I decided to learn GitHub and create repositories for notes on the classes I was taking. Eventually, after seeing the WGU BSCS's empty repo I decided I would create something similar to keep track of all of the links I'd been saving. And that's about it. 
 
-## Update
-<p>Now that every course has its own page on the repo, I'm going to focus my attention to adding more learning resources for different learning styles, adding a page or so of more generalized study resources, keep up with changes to the courses, and general page maintanence. If you have any suggestions for things I should add to the repo, you can open an issue or pull request and I will get to it as soon as possible. If I've included a link to something you've written and would like it removed from the repo, please let me know in the same fashion and I will remove it immediately.</p>
+Once I had a few readmes drafted up I decided to just turn it into a project to share with everyone else too. As it turns out, when you're taking a 100% online degree, pushing and pulling yourself through classes full of new concepts alone isn't super easy. A pretty big component of this university now is the amount of student-generated resources designed to help newer and struggling peers. So that's what this repo is. I'm hoping to compile all of the good stuff into a single place, organized in a way that no matter where you're at, you'll find something in here that'll get you past the finish line.
 
 <br />
+
+## How You Can Help
+Obviously trying to figure out what resources will work for every kind of learning for every course and managing the updates to courses is already a challenge. For courses I've transfered in (and therefore have no idea what is important to study) and [courses that have significantly changed since I took them](C779.md) I have to rely on the observations and opinions of others. However, if you've taken one of those courses or even if you've found something helpful for a course that I don't have in here, please feel free to fork this repo and submit a pull request. As long as it isn't something that could get this repo taken down or someone expelled (OA questions/answers, PA projects/papers, etc), you're good. Eventually I'll have a regular pull request guideline up...
+
+<br />
+
+## What's Coming Next
+Well, lots of clean up. There's bound to be lots of typos all over the place and I'd really like to make everything a little more uniform. On the advice of @todgru , I'm going to be updating everything from the very clunky HTML I was using to the far more accessible [GitHub Flavored Markdown](https://github.github.com/gfm/) while I'm working on that. Hopefully it will make collaborating on here a lot easier. Oh yeah, I also have some more repos on here. Since I've been working on this big repo I've kinda let them go, but they're notes for some of the classes here. The two in particular that I'll be updating next are my Calc and C++ ones. If you're working on either class and need some help, hopefully you'll find them useful.
+
+I'm also planning to add on an extra page for more general learning resources (like links to tools and documentation, some books and video courses to help bridge some of the gaps, etc). If you have any recommendations for that, check out the readme when I eventually post and slap it right [here](https://github.com/Krautpaddy/myBSCS-Classes-Notes).
+
+Anything else? Yeah, I'm working on a chatbot to give people recommendations as to what class they should take next. (I see that question asked a lot in the subreddit). I might be putting out a questionaire to get some data for that sometime soon, so look out for that in case you'd like to participate. I'll be making a seperate repo for it that you can download and stage in PandoraBots. And no, it's not my C951 project, it's just something I'm building to learn how things work. Like I said above, no PA projects are welcome in this repo so it doesn't get shut down!
+
+<br />
+
+
+---
+
 
 ## Classes
-<p>Below is a list of the classes covered in this repo (with links to their readmes). I've seperated it by courses I've taken for the degree program and completed, courses I'm currently taking, and courses in the program I haven't taken yet. When I started this repo I opted to not make pages for courses I transfered in, I will be working towards making them in the future. After I complete the degree program I will change this page to have all courses listed in order of their order on the degree program standard path.</p>
+Below is a list of the classes in the BSCS program. Everything that's linked has its own readme on this repo with information you might find helpful regarding said course. Links to write-ups by the reddits communities, learning resources, textbooks that might help, and some general information like what kind of course it is and the typical information you'd expect.
+
 <br />
-<table>
-  <tr>
-    <th>Completed</th>
-    <th>Currently Taking</th>
-    <th>Not Yet Taken</th>
-    <th>Not in this Repo</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C182.md">C182 - Introduction to IT</a></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C958.md">C958 - Calculus I</a></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C175.md">C175 - Data Management - Foundations</a></td>
-       <td>ORA1 - Orientation<sup>[N1]</sup>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C779.md">C779 - Web Development Foundations</a><sup>[3]</sup></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C867.md">C867 - Scripting and Programming - Applications</a></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C170.md">C170 - Data Management - Applications</a></td>
-       <td>C255 - Introduction to Geography<sup>[N2]</sup></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C165.md">C165 - Integrated Physical Science</a></td>
-    <td></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/D191.md">D191 - Advanced Data Management</a><sup>[2]</sup></td>
-      <td>C100 - Introduction to Humanities<sup>[N3]</sup></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C173.md">C173 - Scripting and Programming - Foundations</a></td>
-        <td></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C482.md">C482 - Software I</a></td>
-  <td>C455 - Engilsh Composition I<sup>[N4]</sup></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C172.md">C172 - Network and Security - Foundations</a><sup>[1]</sup></td>
-        <td></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C195.md">C195 - Software II - Advanced Java Concepts</a></td>
-        <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C961.md">C961 - Ethics in Technology</a></td>
-      <td></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C959.md">C959 - Discrete Mathematics I</a></td>
-      <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C955.md">C955 - Applied Probability and Statistics</a></td>
-      <td></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/D194.md">D194 - IT Leadership Foundations</a></td>
-      <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C836.md">C836 - Fundamentals of Internet Security</a></td>
-      <td></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C768.md">C768 - Technical Communication</a></td>
-      <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C176.md">C176 - Business of IT - Project Management</a></td>
-      <td></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C188.md">C188 - Software Engineering</a></td>
-      <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C949.md">C949 - Data Structures and Algorithms I</a></td>
-      <td></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C952.md">C952 - Computer Architecture</a></td>
-      <td></td>
-  </tr>
-  <tr>
-  <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C846.md">C846 - Business of IT - Applications</a></td>
-      <td></td>
-    <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C191.md">C191 - Operating Systems for Programmers</a></td>
-      <td></td>
-  </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C857.md">C857 - Software Quality Assurance</a></td>
-      <td></td>
-  </tr>
-      <tr>
-      <td></td>
-      <td></td>
-        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C464.md">C464 - Introduction to Communication</a></td>
-      <td></td>
-  </tr>
-      <tr>
-      <td></td>
-      <td></td>
-        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C963.md">C963 - American Politics and the US Constitution</a></td>
-      <td></td>
-  </tr>
-      <tr>
-      <td></td>
-      <td></td>
-        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C683.md">C683 - Natural Science Lab</a></td>
-      <td></td>
-  </tr>
-      <tr>
-      <td></td>
-      <td></td>
-        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C960.md">C960 - Discrete Mathematics II</a></td>
-      <td></td>
-  </tr>
-      <tr>
-      <td></td>
-      <td></td>
-        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C950.md">C950 - Data Structures and Algorithms II</a></td>
-      <td></td>
-  </tr>
-      <tr>
-      <td></td>
-      <td></td>
-        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C951.md">C951 - Introduction to Artificial Intelligence </a></td>
-      <td></td>
-  </tr>
-      <tr>
-      <td></td>
-      <td></td>
-        <td><a href="https://github.com/Krautpaddy/myBSCS-Classes-Notes/blob/main/C964.md">C964 - Computer Science Capstone</a></td>
-      <td></td>
-  </tr>
-</table>
-  <br />
- <p><sub>[1] I took this class in between two different versions of it and the material on the final exam radically changed between them. It's possible it has changed once again, but I'll offer some tips from my experience that still should apply.</sub></p>
- <p><sub>[2] This class replaced the Oracle SQL certification based-class that was originally in the degree program.</sub></p> 
- <p><sub>[3] I took the former certification-based version of this course. It has since been updated to an in-house exam. While my notes on the exam are outdated, a lot of the HTML and CSS practice links should still be helpful to those new to the subject.</sub></p>
-  <p><sub>[N1] An orientation class that walks new students through the learning portal.</sub></p>
-  <p><sub>[N2] A gen ed social sciences class that I transfered in.</sub></p>
-  <p><sub>[N3] A gen ed humanities class that I transfered in.</sub></p>
-  <p><sub>[N4] English Composition I, which I transfered in.</sub></p>
+
+
   <br />
  
+ | Classes In Repo |                 |                 |                 |
+ | --------------- | --------------- | --------------- | --------------- |
+ | [C182 Introduction to IT](C182.md) | [C955 Applied Probability and Statistics](C955.md) | [C779 Web Development Foundations](C779.md)<sup>[C]</sup> | *C255 Introduction to Geography*<sup>[X]</sup> |
+ | [C172 Network and Security - Foundations](C172.md) | [C958 Calculus I](C958.md) | *C455 English Composition I*<sup>[X]</sup> | [C173 Scripting and Programming - Foundations](C173.md) |
+ | [C165 Integrated Physical Sciences](C165.md) | [C959 Discrete Mathematics I](C959.md) | [C960 Discrete Mathematics II](C960.md) | [C683 Natural Science Lab](C683.md) |
+ | [C464 Introduction to Communication](C464.md) | [C952 Computer Architecture](C952.md) | [C867 Scripting and Programming - Applications](C867.md) | [C175 Data Management - Foundations](C175.md) |
+ | [C170 Data Management - Applications](C170.md) | [C963 American Politics and the US Constitution](C963.md) | *C100 Introduction to Humanities*<sup>[X]</sup> | [C482 Software I](C482.md) |
+ | [C195 Software II - Advanced Java Concepts](C195.md) | [C176 Business of IT - Project Management](C176.md) | [C949 Data Structures and Algorithms I](C949.md) | [C950 Data Structures and Algorithms II](C950.md) |
+ | [C961 Ethics in Technology](C961.md) | [C836 Fundamentals of Information Security](C836.md) | [C191 Operating Systems for Programmers](C191.md) | [C188 Software Engineering](C188.md) |
+ | [C846 Business of IT - Applications](C846.md) | [D191 Advanced Data Management](D191.md)<sup>[N]</sup> | [D194 IT Leadership Foundations](D194.md)<sup>[N]</sup> | [C768 Technical Communication](C768.md) |
+ | [C951 Introduction to Artificial Intelligence](C951.md) | [C867 Software Quality Assurance](C867.md) | [C964 Computer Science Capstone](C964.md) |
+ 
+
+<sub>[C] - This symbol is to denote a course recently underwent a significant change, so the content on its readme may be slightly outdated in some areas. If you've taken it since the changes were implemented and would like to help us update the course page, please submit a pull request!</sub>
+
+<sub>[N] - This symbol is to denote a course is new to the program and may not have a lot of resources for it yet. If you've taken it and would like to offer some advice or learning resources for the readme, please submit a pull request!</sub>
+
+<sub>[X] - This symbol is to denote a course that does not yet have a readme page in the repo...but definitely will soon!</sub>
