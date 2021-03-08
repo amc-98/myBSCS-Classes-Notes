@@ -14,7 +14,7 @@ Obviously trying to figure out what resources will work for every kind of learne
 <br />
 
 ## What's Coming Next
-Well, lots of clean up. There's bound to be lots of typos all over the place and I'd really like to make everything a little more uniform. On the advice of @todgru , I'm going to be updating everything from the very clunky HTML I was using to the far more accessible [GitHub Flavored Markdown](https://github.github.com/gfm/) while doing so. Hopefully it will make collaborating on here a lot easier. Oh yeah, I also have some more repos on here. Since I've been working on this big repo I've kinda let them go, but they're notes for some of the classes here. The two in particular that I'll be updating next are my [Calc](C958.md) and [C++](C867.md) ones. If you're working on either class and need some help, hopefully you'll find them useful.
+Well, lots of clean up. There's bound to be lots of typos all over the place and I'd really like to make everything a little more uniform. On the advice of @todgru , I'm going to be updating everything from the very clunky HTML I was using to the far more accessible [GitHub Flavored Markdown](https://github.github.com/gfm/) while doing so. Hopefully it will make collaborating on here a lot easier.
 
 I'm also planning to add on an extra page for more general learning resources (like links to tools and documentation, some books and video courses to help bridge some of the gaps, etc). If you have any recommendations for that, check out the readme when I eventually post and slap it right [here](https://github.com/Krautpaddy/myBSCS-Classes-Notes).
 
