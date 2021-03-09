@@ -37,7 +37,7 @@ Below is a list of the classes in the BSCS program. Everything that's linked has
  | Classes In Repo |                 |                 |                 |
  | --------------- | --------------- | --------------- | --------------- |
  | [C182 Introduction to IT](C182.md) | [C955 Applied Probability and Statistics](C955.md) | [C779 Web Development Foundations](C779.md)<sup>[C]</sup> | *C255 Introduction to Geography*<sup>[X]</sup> |
- | [C172 Network and Security - Foundations](C172.md) | [C958 Calculus I](C958.md) | *C455 English Composition I*<sup>[X]</sup> | [C173 Scripting and Programming - Foundations](C173.md) |
+ | [C172 Network and Security - Foundations](C172.md) | [C958 Calculus I](C958.md) | [C455 English Composition I](C455.md) | [C173 Scripting and Programming - Foundations](C173.md) |
  | [C165 Integrated Physical Sciences](C165.md) | [C959 Discrete Mathematics I](C959.md) | [C960 Discrete Mathematics II](C960.md) | [C683 Natural Science Lab](C683.md) |
  | [C464 Introduction to Communication](C464.md) | [C952 Computer Architecture](C952.md) | [C867 Scripting and Programming - Applications](C867.md) | [C175 Data Management - Foundations](C175.md) |
  | [C170 Data Management - Applications](C170.md) | [C963 American Politics and the US Constitution](C963.md) | *C100 Introduction to Humanities*<sup>[X]</sup> | [C482 Software I](C482.md) |
