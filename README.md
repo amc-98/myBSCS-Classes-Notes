@@ -44,7 +44,7 @@ Below is a list of the classes in the BSCS program. Everything that's linked has
  | [C195 Software II - Advanced Java Concepts](C195.md) | [C176 Business of IT - Project Management](C176.md) | [C949 Data Structures and Algorithms I](C949.md) | [C950 Data Structures and Algorithms II](C950.md) |
  | [C961 Ethics in Technology](C961.md) | [C836 Fundamentals of Information Security](C836.md) | [C191 Operating Systems for Programmers](C191.md) | [C188 Software Engineering](C188.md) |
  | [C846 Business of IT - Applications](C846.md) | [D191 Advanced Data Management](D191.md)<sup>[N]</sup> | [D194 IT Leadership Foundations](D194.md)<sup>[N]</sup> | [C768 Technical Communication](C768.md) |
- | [C951 Introduction to Artificial Intelligence](C951.md) | [C867 Software Quality Assurance](C867.md) | [C964 Computer Science Capstone](C964.md) |
+ | [C951 Introduction to Artificial Intelligence](C951.md) | [C857 Software Quality Assurance](C857.md) | [C964 Computer Science Capstone](C964.md) |
  
 
 <sub>[C] - This symbol is to denote a course recently underwent a significant change, so the content on its readme may be slightly outdated in some areas. If you've taken it since the changes were implemented and would like to help us update the course page, please submit a pull request!</sub>
