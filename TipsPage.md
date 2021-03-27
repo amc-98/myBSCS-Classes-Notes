@@ -76,4 +76,4 @@ Now the moment you probably came here for! My book recommendations are below, an
 <br />
 
 ## Book Recommendations
-To save everyone's browsers from being turned to paste by all of the book covers, I've decided to split this and move the book recs to its own page. I'm going to be updating them throughout the week, I've just been a little tired. [You can check them out here.]().
+To save everyone's browsers from being turned to paste by all of the book covers, I've decided to split this and move the book recs to its own page. I'm going to be updating them throughout the week, I've just been a little tired. [You can check them out here.](BookRecs.md).
