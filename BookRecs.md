@@ -1,7 +1,7 @@
 # Krautpaddy's Book Recommendations
 
 ## Updates
-I had to move the book recommendations to their own page, they were originally on the [Tips page.](TipsPage.md). I'm like super tired right now, so I'll finish this page sometime throughout the week. There's more recommendations than those I have listed right now, the process to write them up is just slow.
+I had to move the book recommendations to their own page, they were originally on the [Tips page.](TipsPage.md) I'm like super tired right now, so I'll finish this page sometime throughout the week. There's more recommendations than those I have listed right now, the process to write them up is just slow.
 
 <br />
 
@@ -79,7 +79,7 @@ This section will cover all of the important core concepts of computer science t
 
 | Book | My Thoughts |
 | ------ | ------- | 
-|<img src="" width="135" /> | **Title and Author** <br /> Pages <br /> My thoughts |
+|  |  |
 
 <br />
 
